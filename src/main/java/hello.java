@@ -4,5 +4,6 @@ public class hello {
         System.out.println("hello world");
         System.out.println("master commit");
         System.out.println("nihao hello");
+        System.out.println("n1hao jiao");
     }
 }
